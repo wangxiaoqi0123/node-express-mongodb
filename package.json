@@ -19,7 +19,7 @@
     "fastclick": "^1.0.6",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.14",
-    "nodemailer": "^6.2.1",
+    "nodemailer": "^6.4.16",
     "request": "^2.88.0"
   }
 }
