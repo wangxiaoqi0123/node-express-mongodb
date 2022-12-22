@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "express-session": "^1.16.2",
     "fastclick": "^1.0.6",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.5.14",
     "nodemailer": "^6.2.1",
     "request": "^2.88.0"
